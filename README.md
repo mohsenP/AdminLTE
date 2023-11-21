@@ -111,6 +111,7 @@ To compile the dist files you need Node.js/npm, clone/download the repo then:
 Please read through our [contributing guidelines](https://github.com/ColorlibHQ/AdminLTE/tree/master/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
 Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+my corp [سیم کارت](https://www.jamsimkart.com/) for mor information
 
 
 ## License
